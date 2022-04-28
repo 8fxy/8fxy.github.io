@@ -2,7 +2,7 @@
 layout: post
 title: 艾尔登法环全任务
 subtitle: 以及结局影响
-tags: [工具]
+tags: [Game]
 comments: true
 ---
 
