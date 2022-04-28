@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: "Sam Fu's Blog"
+title: Sam Fu's Blog
 
 # Your name to show in the footer
-author: "Sam Fu"
+author: Sam Fu
 
 # --- List of links in the navigation bar --- #
 
@@ -17,6 +17,7 @@ navbar-links:
   Resources:
     - Learn Markdown: "https://learnmarkdown.com/"
   About Me: "aboutme"
+  
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
