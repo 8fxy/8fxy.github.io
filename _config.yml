@@ -4,7 +4,7 @@ navbar-links:
   Resources:
     - Learn markdown: 'https://www.markdowntutorial.com/'
     - Beautiful Jekyll: 'https://beautifuljekyll.com'
-    About Me: aboutme
+  About Me: aboutme
 avatar: /assets/img/avatar-icon.png
 round-avatar: true
 social-network-links:
