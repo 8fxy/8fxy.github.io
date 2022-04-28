@@ -1,15 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Keep on coding on
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi there, I am a data analyst in Shanghai, China.
+Generally I use python & R to do my job.
+Very glad to share my ideas with you.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Please contact me if you have any questions or just want to talk!:)
 
-What else do you need?
+E-Mail: fxy312@126.com
+Wechat: fxy312
+
+Have a good day!
 
 ### My story
 
