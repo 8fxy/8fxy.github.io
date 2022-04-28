@@ -1,5 +1,5 @@
-title: My Website
-author: Some Person
+title: Sam Fu's Blog
+author: Sam Fu
 navbar-links:
   About Me: aboutme
   Resources:
@@ -9,14 +9,14 @@ navbar-links:
 avatar: /assets/img/avatar-icon.png
 round-avatar: true
 social-network-links:
-  email: someone@example.com
+  email: fxy312@126.com
   rss: true
   facebook: deanattali
   github: daattali
   twitter: daattali
   patreon: DeanAttali
   youtube: c/daattali
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Some Boring Blogs
 share-links-active:
   twitter: true
   facebook: true
