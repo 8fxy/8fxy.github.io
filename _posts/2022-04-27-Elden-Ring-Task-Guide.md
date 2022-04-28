@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Obsidian笔记
-subtitle: 笔记本工具大结局
+title: 艾尔登法环全任务
+subtitle: 以及结局影响
 tags: [工具]
 comments: true
 ---
-# 全支线目录
+
+# 全支线目录  
+
 |  **影响结局** | **不影响结局**  |
 |  ----  | ----  |
 | 颓废时代（普通结局）  | 帕奇与菈雅|
