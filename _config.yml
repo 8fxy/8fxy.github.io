@@ -1,28 +1,27 @@
-title: Blogs
+title: BLOGS
 author: Sam Fu
 navbar-links:
-  About Me: aboutme
   Resources:
     - Learn markdown: 'https://www.markdowntutorial.com/'
     - Beautiful Jekyll: 'https://beautifuljekyll.com'
-  Author's home: 'https://deanattali.com'
+    About Me: aboutme
 avatar: /assets/img/avatar-icon.png
 round-avatar: true
 social-network-links:
   email: fxy312@126.com
   rss: true
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+#   facebook: deanattali
+  github: https://github.com/8fxy
+#   twitter: daattali
+#   patreon: DeanAttali
+#   youtube: c/daattali
 rss-description: Some Boring Blogs
-share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
-  vk: false
-url-pretty: MyWebsite.com
+# share-links-active:
+#   twitter: true
+#   facebook: true
+#   linkedin: true
+#   vk: false
+url-pretty: blog.8fxy.cn
 excerpt_length: 50
 feed_show_excerpt: true
 feed_show_tags: true
