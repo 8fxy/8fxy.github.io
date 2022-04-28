@@ -1,7 +1,7 @@
 title: HOME
 author: Sam Fu
 navbar-links:
-  Blogs: tags
+  Blogs: home
   Resources:
     - Learn markdown: 'https://www.markdowntutorial.com/'
     - Beautiful Jekyll: 'https://beautifuljekyll.com'
