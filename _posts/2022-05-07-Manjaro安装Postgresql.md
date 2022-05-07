@@ -63,3 +63,9 @@ $ sudo su - postgres
 $ psql
 ```
 然后就可以使用sql query了
+
+
+# 参考
+1. [如何在Manjaro 20上安装PostgreSQL](https://www.yundongfang.com/Yun40753.html)
+2. [Install PostgreSQL on Manjaro and set it up for Django](https://gist.github.com/marcorichetta/af0201a74f8185626c0223836cd79cfa)
+
