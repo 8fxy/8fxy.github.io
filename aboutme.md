@@ -15,31 +15,31 @@ Very glad to share my ideas with you.
 ---  
 **Data Analyst at Rising Lab of YiMagazine, Shanghai**   
 June 2020 - Now  
-· Government and business consulting projects based on big data & LBS  
-· Data analysis process construction and optimization  
+▪️ Government and business consulting projects based on big data & LBS  
+▪️ Data analysis process construction and optimization  
 
 **Customer Manager at ICBC, Chuzhou**  
 July 2014 - May 2016  
-· Loan evaluation  
-· Post-loan management  
+▪️ Loan evaluation  
+▪️ Post-loan management  
 
 🎓 Education
 ---
 **Master of Economics, Shanghai Academy of Social Science, Shanghai**  
 September 2017 - June 2020  
-· Graduate with distinction  
+▪️ Graduate with distinction  
 
 **Banchelor of Economics, Sun Yat-sen University, Canton**  
 September 2010 - June 2014  
-· Intern at Bureau of Statistics, Guangdong Province  
+▪️ Intern at Bureau of Statistics, Guangdong Province  
 
 🔧 Skills
 ---
-· Data analysis: statistics, AI & machine learning  
-· Programming: Python/SQL/R  
-· GIS: Qgis/Arcmap  
-· Web: Dash/Streamlit  
-· Operation and maintenance: Debian/Manjaro/Docker   
+▪️ Data analysis: statistics, AI & machine learning  
+▪️ Programming: Python/SQL/R  
+▪️ GIS: Qgis/Arcmap  
+▪️ Web: Dash/Streamlit  
+▪️ Operation and maintenance: Debian/Manjaro/Docker   
 
 
 📮 Contact
