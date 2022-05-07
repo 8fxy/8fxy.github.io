@@ -16,7 +16,7 @@ Very glad to share my ideas with you.
 **Data Analyst at Rising Lab of YiMagazine, Shanghai**   
 June 2020 - Now  
 ▪️ Government and business consulting projects based on big data & LBS  
-▪️ Data analysis process construction and optimization  
+▪️ Data analysis tool development and process optimization  
 
 **Customer Manager at ICBC, Chuzhou**  
 July 2014 - May 2016  
