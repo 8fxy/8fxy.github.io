@@ -13,25 +13,25 @@ Very glad to share my ideas with you.
 
 💼 Employment History
 ---  
-### **Data Analyst at Rising Lab of YiMagazine, Shanghai**   
-##### June 2020 - Now
-Business Information Project Based on Big Data
-Data analysis process construction and optimization
+**Data Analyst at Rising Lab of YiMagazine, Shanghai**   
+June 2020 - Now
+· Business Information Project Based on Big Data
+· Data analysis process construction and optimization
 
-**Custom Manager at ICBC, Chuzhou**  
+**Customer Manager at ICBC, Chuzhou**  
 July 2014 - May 2016
-Loan evaluation
-Post-loan management
+· Loan evaluation
+· Post-loan management
 
 🎓 Education
 ---
 **Master of Economics, Shanghai Academy of Social Science, Shanghai**  
 September 2017 - June 2020
-Graduate with distinction
+· Graduate with distinction
 
 **Banchelor of Economics, Sun Yat-sen University, Canton**  
 September 2010 - June 2014
-Intern at Bureau of Statistics, Guangdong Province
+· Intern at Bureau of Statistics, Guangdong Province
 
 🔧 Skills
 ---
@@ -42,5 +42,5 @@ Intern at Bureau of Statistics, Guangdong Province
 
 📮 Contact
 ---  
-- E-Mail: fxy312@126.com  
-- Wechat: fxy312
+E-Mail: fxy312@126.com  
+Wechat: fxy312
