@@ -35,11 +35,11 @@ September 2010 - June 2014
 
 🔧 Skills
 ---
-· Data analysis: statistics, AI & machine learning
-· Programming: Python/SQL/R
-· GIS: Qgis/Arcmap
-· Web: Dash/Streamlit
-· Operation and maintenance: Debian/Manjaro/Docker
+· Data analysis: statistics, AI & machine learning  
+· Programming: Python/SQL/R  
+· GIS: Qgis/Arcmap  
+· Web: Dash/Streamlit  
+· Operation and maintenance: Debian/Manjaro/Docker   
 
 
 📮 Contact
