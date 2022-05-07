@@ -14,23 +14,23 @@ Very glad to share my ideas with you.
 💼 Employment History
 ---  
 **Data Analyst at Rising Lab of YiMagazine, Shanghai**   
-<font color=#D3D3D3>June 2020 - Now</font>
+June 2020 - Now
 - Business Information Project Based on Big Data
 - Data analysis process construction and optimization
 
 **Custom Manager at ICBC, Chuzhou**  
-<font color=#D3D3D3>July 2014 - May 2016</font>
+July 2014 - May 2016
 - Loan evaluation
 - Post-loan management
 
 🎓 Education
 ---
 **Master of Economics, Shanghai Academy of Social Science, Shanghai**  
-<font color=#D3D3D3>September 2017 - June 2020</font>
+September 2017 - June 2020
 - Graduate with distinction
 
 **Banchelor of Economics, Sun Yat-sen University, Canton**  
-<font color=#D3D3D3>September 2010 - June 2014</font>
+September 2010 - June 2014
 - Intern at Bureau of Statistics, Guangdong Province
 
 🔧 Skills
