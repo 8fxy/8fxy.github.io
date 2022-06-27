@@ -11,7 +11,7 @@
           "state": {
             "file": "2022-06-24-yaml安全加载.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -94,6 +94,9 @@
     "2022-06-20-Linux-shell-tips.md",
     "2022-05-22-Manjaro更新套餐.md",
     "2022-05-15-MacOS v2rayU启动失败的解决方法.md",
-    "2022-04-25-Obsidian笔记.md"
+    "2022-05-10-MacOS移动硬盘盒选购指南.md",
+    "2022-04-28-博客部署记录.md",
+    "2022-04-25-Obsidian笔记.md",
+    "2022-05-07-Manjaro安装Postgresql.md"
   ]
 }

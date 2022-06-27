@@ -1,31 +1,29 @@
----
-layout: post
-title: Shell tips
-subtitle: updating
+---  
+layout: post  
+title: Shell tips  
+subtitle: updating  
 tags: [Tips]
 comments: true
 ---
-
-1. back to the last directory
+1. back to the last directory  
 ```shell
 $ cd -
 ```
 
-2. clear terminal
+2. clear terminal  
 clear all
 ```shell
 $ clear
 ```
-clear and keep history output
-```ctrl + L```
+clear and keep history output```ctrl + L```
 
-3. save directories
+3. save & take out directories  
 ```shell
 $ pushd my_dir # cd and save dir
 $ popd my_dir # cd to the latest
 ```
 
-4. history
+4. history  
 For zsh: edit `~/.zshrc` add  
 ```shell
 export HISTFILEFLESIZE=1000000000
