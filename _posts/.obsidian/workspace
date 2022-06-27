@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "2a3b85bed79c5e43",
+    "type": "split",
+    "children": [
+      {
+        "id": "60d1c51533a82fa6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022-06-24-yaml安全加载.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "edae4e138215b44f",
+    "type": "split",
+    "children": [
+      {
+        "id": "304cbde82e3a44e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbfe2dac80b931ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0870af6f84b22ce2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f3564205887e38fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "f82f65b20f8d0b8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b63cf51aae3e4d1b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022-06-24-yaml安全加载.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "60d1c51533a82fa6",
+  "lastOpenFiles": [
+    "2022-06-24-yaml安全加载.md",
+    "2022-06-23-oh-my-zsh安装和配置.md",
+    "2022-06-20-Linux-shell-tips.md",
+    "2022-05-22-Manjaro更新套餐.md",
+    "2022-05-15-MacOS v2rayU启动失败的解决方法.md",
+    "2022-04-25-Obsidian笔记.md"
+  ]
+}
