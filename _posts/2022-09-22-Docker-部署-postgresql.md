@@ -29,10 +29,17 @@ $ docker run --name some-postgres -e POSTGRES_PASSWORD=mysecretpassword -d postg
 
 ###  用户名 postgres 首次登陆
 
+进入容器内的终端
+
 ```console
 $ docker container exec -it some-postgres su postgres
+```
+
+修改默认用户 postgres 的密码
+
+```
 $ psql
-$ \password postgres
+\password postgres
 ```
 
 输入两次密码并确认
@@ -126,13 +133,13 @@ cd /var/lib/docker/containers/some-container-id
 修改 `hostconfig.json ` ， 将容器端口映射到主机端口：
 
 ```json
-"5432/tcp": [{"HostIp": "","HostPort": "5432"}]
+"5432/tcp": [{"HostIp":"","HostPort":"5432"}]
 ```
 
 修改 `config.v2.json`， 在 `ExposedPorts` 中加入要暴露的端口：
 
 ```json
-ExposedPoerts: {"5432/tcp":{}}
+ExposedPoerts:{"5432/tcp":{}}
 ```
 
 重启 Docker 后，外部设备就可以通过 主机IP:5432 访问应用了
