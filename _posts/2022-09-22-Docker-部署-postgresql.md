@@ -1,4 +1,15 @@
+---
+layout: post
+title: Docker 部署 postgresql
+subtitle: 映射主机端口
+tags: [Tips]
+comments: true
+---
+
+# Docker 部署 postgresql
+
 ## 安装 Docker
+请参考[官方文档](https://docs.docker.com/get-started/)
 
 ## 允许非 root 用户管理 Docker
 ```console
@@ -8,7 +19,8 @@ $ newgrp docker
 ```
 
 ## 部署 Postgresql
-### start a postgres instance
+
+### 开启容器 
 
 ```console
 $ docker run --name some-postgres -e POSTGRES_PASSWORD=mysecretpassword -d postgres
