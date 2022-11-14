@@ -127,10 +127,10 @@ $ systemctl stop docker  # 停止 Docker 服务
 找到容器的配置文件目录
 
 ```console
-cd /var/lib/docker/containers/some-container-id
+$ cd /var/lib/docker/containers/some-container-id
 ```
 
-修改 `hostconfig.json ` ， 将容器端口映射到主机端口：
+修改 `hostconfig.json` ， 将容器端口映射到主机端口：
 
 ```json
 "5432/tcp": [{"HostIp":"","HostPort":"5432"}]
