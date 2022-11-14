@@ -11,8 +11,12 @@
             "id": "e82e10aba9a0bb19",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2022-09-24-Linux-不启动图形界面.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2022-09-24-Linux-不启动图形界面.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,11 +97,11 @@
   },
   "active": "e82e10aba9a0bb19",
   "lastOpenFiles": [
-    "2022-09-22-Docker-部署-postgresql.md",
-    "2022-09-25-bash-使用别名快速调用脚本.md",
-    "2022-09-24-Linux-不启动图形界面.md",
-    "2022-09-25-Python-代码管理自动化.md",
+    "2022-10-08-bash-使用别名快速调用脚本.md",
     "2022-07-02-VSCode-摆脱鼠标.md",
+    "2022-10-24-Python-代码管理自动化.md",
+    "2022-09-24-Linux-不启动图形界面.md",
+    "2022-09-22-Docker-部署-postgresql.md",
     "2022-04-21-Elden-Ring-Task-Guide.md",
     "2022-04-25-Obsidian笔记.md",
     "2022-04-28-博客部署记录.md",
