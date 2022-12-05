@@ -10,10 +10,10 @@ comments: true
 
 由于一些软件的需求，开发机装的是 Windows 系统。随着时间推移，运行的脚本越来越多，维护起来也越发头痛。这里学习用 NSSM 将脚本封装成服务，好处很多：
 
-- 支持几乎所有程序（脚本或者带界面的Windows程序都可以）
-- 支持重定向输出（并且支持Rotation）
-- 自动守护封装了的服务，程序挂掉了后可以自动重启
-- 自定义环境变量
+- 支持几乎所有程序（脚本或者.exe）
+- 支持重定向输出（支持Rotation）
+- 自动守护服务，程序挂掉可以自动重启
+- 灵活的自定义环境变量
 
 ## 方法
 
@@ -66,3 +66,6 @@ nssm install
 修改参数：`nssm edit <servicename>`
 
 删除服务：`nssm remove <servicename>`  或 `nssm remove <servicename> confirm`    
+
+
+ref：[【Windows学习】使用NSSM将exe封装为服务 by gtea](https://www.cnblogs.com/gtea/p/12672854.html)
