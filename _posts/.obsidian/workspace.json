@@ -11,11 +11,28 @@
             "id": "2ab30e381d782497",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2022-10-24-Python-代码管理自动化.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "520fd045d9e8341b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-12-05-NSSM-自定义-Windows-服务.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2022-12-05-NSSM-自定义-Windows-服务.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +108,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2ab30e381d782497",
+  "active": "520fd045d9e8341b",
   "lastOpenFiles": [
     "2022-10-24-Python-代码管理自动化.md",
     "2022-09-22-Docker-部署-postgresql.md",
