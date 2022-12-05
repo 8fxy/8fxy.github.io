@@ -2,7 +2,7 @@
 layout: post
 title: NSSM 自定义 Windows 服务
 subtitle: 大大简化日常维护
-tags: [Windows]
+tags: [FastAPI]
 comments: true
 ---
 
@@ -31,7 +31,6 @@ comments: true
 from fastapi import FastAPI
 
 
-# Star API test
 @app.get("/")
 def test():
     return {"code": "200", "msg": "Success"}
@@ -55,3 +54,15 @@ nssm install
 **Service name**: 服务名称，例如 MyApi
 
 在 `Windows Services` 中把服务 MyApi 设为自动
+
+## 服务管理
+
+推荐使用 `Windows Services` 管理，或者也可以用 `nssm` 命令管理：
+
+- 启动服务：`nssm start <servicename>`
+- 停止服务： `nssm stop <servicename>`
+- 重启服务:    `nssm restart <servicename>`
+
+修改参数：`nssm edit <servicename>`
+
+删除服务：`nssm remove <servicename>`  或 `nssm remove <servicename> confirm`    
