@@ -1,3 +1,11 @@
+---
+layout: post
+title: Windows 10 x Docker Desktop 无法绑定特定端口
+subtitle: 重启 Winnat 解决
+tags: [Docker]
+comments: true
+---
+
 
 ## 现象描述
 
@@ -13,7 +21,7 @@ Docker Desktop 启动容器后显示端口映射成功
 
 也就是容器启动了，但端口实际上并没有映射成功，客户端显示的映射成功是假的
 
-搞了半天发现似乎是 `HyperV + winnat` 的神秘 bug，cmd 中用以下命令解决：
+搞了半天发现似乎是 `Hyper-V + winnat` 的神秘 bug，cmd 中用以下命令解决：
 
 ```cmd
 net stop winnat
