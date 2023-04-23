@@ -11,7 +11,7 @@ comments: true
 
 项目需要用到一个 pgsql 容器，端口映射 `-p 55000:5432`  
 Docker Desktop 点击▶️启动容器，显示正常启动，且端口映射成功  
-但是无法通过宿主机端口+映射端口号访问，而Docker 内部IP + 内部端口号访问正常  
+但是无法通过宿主机端口+映射端口号访问，而 Docker 内部 IP + 内部端口号访问正常  
 
 ## 解决方法
 
@@ -19,17 +19,17 @@ Docker Desktop 点击▶️启动容器，显示正常启动，且端口映射�
 
 > Docker: error response from daemon: Ports are not available: listen tcp 0.0.0.0/50070: bind: An attempt was made to access a socket in a way forbidden by its access permissions.
 
-也就是容器启动了，但端口实际上并没有映射成功，客户端显示的映射成功是假的
+也就是宿主机的端口映射实际上没有成功，客户端显示的成功是**假的**
 
 搞了半天发现似乎是 `Hyper-V + winnat` 的神秘 bug，cmd 中用以下命令解决：
 
-```cmd
+```powershell
 net stop winnat
 docker start container_name
 net start winnat
 ```
 
-至于底层原因，参考链接2中看到一个说法：
+至于底层原因，我在参考链接2中看到一个说法：
 
 >有文章说是Hyper-V会随机保留一些端口，具体干什么我也不记得了，问微软去。反正就是会绑定一组随机端口（是一组不是一个），如果你很幸运，保留范围里面有58526，那你不管怎么折腾都不可能连接上WSA。
 
