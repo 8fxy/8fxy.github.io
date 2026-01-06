@@ -59,6 +59,7 @@ defaults:
     values:
       layout: page
 exclude:
+  - vendor/
   - CHANGELOG.md
   - CNAME
   - Gemfile
